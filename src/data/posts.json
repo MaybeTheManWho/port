@@ -1,0 +1,42 @@
+[
+    {
+      "id": "sample-post",
+      "title": "Sample Blog Post",
+      "slug": "sample-blog-post",
+      "excerpt": "This is a sample blog post to test the blog system.",
+      "tags": ["sample", "test"],
+      "published": true,
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "getting-started-with-nextjs",
+      "title": "Getting Started with Next.js",
+      "slug": "getting-started-with-nextjs",
+      "excerpt": "Learn how to set up a Next.js project and create your first pages.",
+      "tags": ["Next.js", "React", "Tutorial"],
+      "published": true,
+      "createdAt": "2023-03-01T00:00:00.000Z",
+      "updatedAt": "2023-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "mastering-css-grid",
+      "title": "Mastering CSS Grid Layout",
+      "slug": "mastering-css-grid",
+      "excerpt": "A comprehensive guide to using CSS Grid for modern web layouts.",
+      "tags": ["CSS", "Web Development", "Design"],
+      "published": true,
+      "createdAt": "2023-02-15T00:00:00.000Z",
+      "updatedAt": "2023-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "react-best-practices",
+      "title": "React Best Practices in 2023",
+      "slug": "react-best-practices",
+      "excerpt": "Stay up to date with the latest React patterns and practices.",
+      "tags": ["React", "JavaScript", "Best Practices"],
+      "published": true,
+      "createdAt": "2023-01-20T00:00:00.000Z",
+      "updatedAt": "2023-01-20T00:00:00.000Z"
+    }
+  ]
